@@ -8,7 +8,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  IMAGE_NAME: togglemaster-flag
+  IMAGE_NAME: togglemaster-auth
 
 jobs:
 
